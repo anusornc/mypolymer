@@ -1,0 +1,21 @@
+{
+  "name": "polymer",
+  "version": "0.0.0",
+  "homepage": "https://github.com/anusornc/PlayScala",
+  "authors": [
+    "Anusorn Chaikaew <anusorn.c@crru.ac.th>"
+  ],
+  "description": "Test polymer framework",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/src/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0"
+  }
+}
